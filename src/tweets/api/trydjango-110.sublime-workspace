@@ -1,0 +1,407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fetch",
+				"fetchOne"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"contain",
+				"container"
+			],
+			[
+				"Ma",
+				"ManyToManyField"
+			],
+			[
+				"this",
+				"this_"
+			],
+			[
+				"tweet",
+				"tweetContainer"
+			],
+			[
+				"has",
+				"hashtags"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"grey",
+				"grey-color"
+			],
+			[
+				"date",
+				"dateDisplay"
+			],
+			[
+				"h",
+				"hr"
+			],
+			[
+				"Vie",
+				"view"
+			],
+			[
+				"hashtag",
+				"hashtag"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"im",
+				"im_following"
+			],
+			[
+				"fo",
+				"following"
+			],
+			[
+				"User",
+				"UserProfile"
+			],
+			[
+				"next",
+				"nextTweetUrl"
+			],
+			[
+				"typ",
+				"typingTimer"
+			],
+			[
+				"se",
+				"searchQuery"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"red",
+				"red"
+			],
+			[
+				"char",
+				"charsCurrent"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"pr",
+				"prepend"
+			],
+			[
+				"time",
+				"timesince"
+			],
+			[
+				"Tweet",
+				"TweetModelSerializer"
+			],
+			[
+				"ser",
+				"serializer_class"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"rev",
+				"reverse_lazy"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"Creat",
+				"CreateView"
+			],
+			[
+				"va",
+				"validate_content"
+			],
+			[
+				"TweetModel",
+				"TweetModelForm"
+			],
+			[
+				"Model",
+				"TweetModelForm"
+			],
+			[
+				"Twee",
+				"Tweet_Detail_View"
+			],
+			[
+				"Obj",
+				"object"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/abhishek/Desktop/DjangoURLshortner"
+	],
+	"file_history":
+	[
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/api/serializers.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/api/urls.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/api/views.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/templates/base.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/views.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweetme/settings/base.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/templates/navbar.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/templates/registration/login.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/models.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/templates/accounts/user_detail.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/views.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/forms.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweetme/urls.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/urls.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweetme/settings/production.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweetme/settings/local.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/templates/accounts/user_register_form.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/templates/tweets/tweet_list.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/templates/accounts/snippets/recommend.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/templatetags/recommended.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/templates/home.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/templatetags/__init__.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/hashtags/api/views.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/hashtags/api/__init__.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/hashtags/models.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/hashtags/templates/hashtags/tag_view.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/models.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/templates/search.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweetme/views.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/templates/tweets/search_form.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/urls.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/templates/tweets/tweet_detail.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/templates/reply-modal.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/templates/tweets/form.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/forms.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/templates/tweets/create_view.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/hashtags/views.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/admin.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/api/pagination.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/mixins.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/api/serializers.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/templates/tweets/update_view.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/validators.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/apps.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/api/urls.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/apps.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/hashtags/signals.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/hashtags/admin.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/admin.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/tests.py",
+		"/home/abhishek/Desktop/Dev/tweetme/lib/python3.6/site-packages/django/db/models/fields/related.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/accounts/api/__init__.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/api/__init__.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/tests.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/templates/tweets/detail_view.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/templates/tweets/list_view.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweets/templates/tweets/delete_confirm.html",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweetme/settings/__init__.py",
+		"/home/abhishek/Desktop/Dev/tweetme/src/static-storage/static/css/custom.css",
+		"/home/abhishek/Desktop/Dev/tweetme/src/tweetme/settings.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\n",
+			"profile",
+			"/'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango-110.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
